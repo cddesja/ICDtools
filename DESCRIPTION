@@ -1,0 +1,10 @@
+Package: ICDtools
+Title: R tools for the Institute of Child Development
+Version: 0.1
+Authors@R: person("Chris", "Desjardins", email = "cddesjardins@gmail.com", role = c("aut", "cre"))
+Description: Helpful R functions for problems encountered at the Institute of Child Development. This includes downward scoring of the DEXT and combining multiply imputed data sets with lavaan.
+Depends: R (>= 3.4.4)
+License: GNU GPL 3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
